@@ -3,8 +3,8 @@ TITLE String Converter     (Proj6_trimnerm.asm)
 ; Author: Matt Trimner
 ; Description: This program will take 10 signed numbers from a user, convert them from strings into integers,
 ; sum the integers and find a truncated average. It will then convert the integers back into strings and 
-; print the numbers entered, the sum, and the average to the screen. It does all of this only using the two macros and 2 functions.
-INCLUDE Irvine32.inc
+; print the numbers entered, the sum, and the average to the screen. It does all of this only using the two macros and two functions.
+INCLUDE Irvine32.inc 
 
 ; --------------------------------------------------------------------------------- 
 ; Name: mGetString 
