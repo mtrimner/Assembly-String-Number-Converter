@@ -1,8 +1,8 @@
-Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 18:32:33
-)String Converter     (Proj6_trimnerm.asm		     Page 1 - 1
+Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 19:22:48
+String Converte					     Page 1 - 1
 
 
-				TITLE String Converter     (Proj6_trimnerm.asm)
+				TITLE String Converter 
 
 				; Author: Matt Trimner
 				; Description: This program will take 10 signed numbers from a user, convert them from strings into integers,
@@ -557,8 +557,8 @@ Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 18:32:33
  0000026F  C2 0004			ret		4
  00000272			writeVal	ENDP
 				END main
-Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 18:32:33
-)String Converter     (Proj6_trimnerm.asm		     Symbols 2 - 1
+Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 19:22:48
+String Converte					     Symbols 2 - 1
 
 
 

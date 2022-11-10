@@ -117,8 +117,6 @@ _getNumber:
 	call	CrLF
 	
 ; This is the second loop will loop through the array to get the sum, average, and print each number
-; This second main loop is done by instruction of professor Stephan Redfield in the project 6 ed discussion "ReadVal/WriteVal" 
-; https://edstem.org/us/courses/21498/discussion/1541134
 	CLD
 	mov		ECX, LENGTHOF numArray
 	mov		ESI, OFFSET numArray
