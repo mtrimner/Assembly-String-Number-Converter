@@ -1,20 +1,14 @@
-Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/07/22 16:30:27
+Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 18:32:33
 )String Converter     (Proj6_trimnerm.asm		     Page 1 - 1
 
 
 				TITLE String Converter     (Proj6_trimnerm.asm)
 
 				; Author: Matt Trimner
-				; Last Modified: 6/5
-				; OSU email address: trimnerm@oregonstate.edu
-				; Course number/section:   CS271 Section 400
-				; Project Number: Project 6                Due Date: 6/5
-				; Description: This program will take 10 numbers from a user, convert them from strings into integers,
+				; Description: This program will take 10 signed numbers from a user, convert them from strings into integers,
 				; sum the integers and find a truncated average. It will then convert the integers back into strings and 
-				; print the numbers entered, the sum, and the average to the screen. It does all of this only using the two macros and 2 functions
-				; that we are instructed to use in the instructions for Project 6.
-
-				INCLUDE Irvine32.inc
+				; print the numbers entered, the sum, and the average to the screen. It does all of this only using the two macros and two functions.
+				INCLUDE Irvine32.inc 
 			      C ; Include file for Irvine32.lib             (Irvine32.inc)
 			      C 
 			      C ;OPTION CASEMAP:NONE		; optional: make identifiers case-sensitive
@@ -563,7 +557,7 @@ Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/07/22 16:30:27
  0000026F  C2 0004			ret		4
  00000272			writeVal	ENDP
 				END main
-Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/07/22 16:30:27
+Microsoft (R) Macro Assembler Version 14.29.30141.0	    11/09/22 18:32:33
 )String Converter     (Proj6_trimnerm.asm		     Symbols 2 - 1
 
 
