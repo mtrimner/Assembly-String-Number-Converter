@@ -1,4 +1,4 @@
-TITLE String Converter     (Proj6_trimnerm.asm)
+TITLE String Converter 
 
 ; Author: Matt Trimner
 ; Description: This program will take 10 signed numbers from a user, convert them from strings into integers,
